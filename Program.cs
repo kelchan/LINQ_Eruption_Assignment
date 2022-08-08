@@ -13,7 +13,8 @@ List<Eruption> eruptions = new List<Eruption>()
     new Eruption("Aira", 766, "Japan", 1117, "Stratovolcano"),
     new Eruption("Ceboruco", 930, "Mexico", 2280, "Stratovolcano"),
     new Eruption("Etna", 1329, "Italy", 3320, "Stratovolcano"),
-    new Eruption("Bardarbunga", 1477, "Iceland", 2000, "Stratovolcano")
+    new Eruption("Bardarbunga", 1477, "Iceland", 2000, "Stratovolcano"),
+    new Eruption("Zardarbunga", 2022, "New York City", 2000, "Stratovolcano")
 };
 // Example Query - Prints all Stratovolcano eruptions
 IEnumerable<Eruption> stratovolcanoEruptions = eruptions.Where(c => c.Type == "Stratovolcano");
