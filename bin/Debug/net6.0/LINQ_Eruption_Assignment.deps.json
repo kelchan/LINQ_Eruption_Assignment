@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LINQ_Eruption_Assignment/1.0.0": {
+        "runtime": {
+          "LINQ_Eruption_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ_Eruption_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

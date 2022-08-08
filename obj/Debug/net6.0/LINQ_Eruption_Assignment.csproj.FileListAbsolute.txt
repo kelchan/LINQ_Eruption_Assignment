@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\bin\Debug\net6.0\LINQ_Eruption_Assignment.exe
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\bin\Debug\net6.0\LINQ_Eruption_Assignment.deps.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\bin\Debug\net6.0\LINQ_Eruption_Assignment.runtimeconfig.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\bin\Debug\net6.0\LINQ_Eruption_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\bin\Debug\net6.0\LINQ_Eruption_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\LINQ_Eruption_Assignment.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\LINQ_Eruption_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\LINQ_Eruption_Assignment.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\LINQ_Eruption_Assignment.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\LINQ_Eruption_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\LINQ_Eruption_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\refint\LINQ_Eruption_Assignment.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\LINQ_Eruption_Assignment.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\LINQ_Eruption_Assignment.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\LINQ_Eruption_Assignment\obj\Debug\net6.0\ref\LINQ_Eruption_Assignment.dll
