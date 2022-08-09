@@ -29,20 +29,15 @@ Console.WriteLine( "First Eruption In Chile: " + firstEruptionInChile );
 
 
 // Find the first eruption from the "Hawaiian Is" location and print it. If none is found, print "No Hawaiian Is Eruption found."
-IEnumerable<Eruption> Hawaii = eruptions.Where( c => c.Location == "Hawaiian Is" );
-
-string firstEruptionInHawaii = eruptions.First( c => c.Location == "Hawaiian Is" ).ToString();
-
-
-if( firstEruptionInHawaii == null )
+try
 {
-    Console.WriteLine( "No Hawaiian Island Eruption is found" );
+    Eruption Hawaii = eruptions.Where( c => c.Location == "Hawaiian Is" ).First();
+    Console.WriteLine( "First Eruption in Hawaii: " + Hawaii);
 }
-else
+catch
 {
-    Console.WriteLine( "First Eruption In Hawaiian Is: " + firstEruptionInHawaii );
+    Console.WriteLine("No Hawaiian Is Found");
 }
-
 
 // Find the first eruption that is after the year 1900 AND in "New Zealand", then print it.
 string firstEruptionInNewZealand = eruptions.First( c => c.Location == "New Zealand" && c.Year > 1900 ).ToString();
