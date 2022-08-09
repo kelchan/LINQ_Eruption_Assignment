@@ -36,7 +36,7 @@ try
 }
 catch
 {
-    Console.WriteLine("No Hawaiian Is Found");
+    Console.WriteLine("No Hawaiian eruption is found");
 }
 
 // Find the first eruption that is after the year 1900 AND in "New Zealand", then print it.
